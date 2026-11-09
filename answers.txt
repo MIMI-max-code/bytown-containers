@@ -1,0 +1,3 @@
+Q1: The file is permanently erased and deleted
+Q2: It has no published port because of the security measures implemented, by redirecting traffic to a private network using the proxy
+Q3: An image is a read only copy of an environment whereas the container runs the software on the environment   
